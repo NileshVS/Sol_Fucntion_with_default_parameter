@@ -16,4 +16,4 @@ function concatnew(firstName,lastName="Sawakhande"){
     //new way of concatinating using back ticks
     console.log(`Hello ${firstName} ${lastName}, your first name ${firstName} and last name ${lastName} are now concatinated using back ticks.`);
 }
-concatnew("Nilesh");
+concatnew("Nilesh","VS");
